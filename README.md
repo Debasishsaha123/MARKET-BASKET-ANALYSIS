@@ -67,3 +67,14 @@ It helps retailers with:
 
 6.Identifies customer behavior and pattern
 
+### How does Market Basket Analysis look from the Customer’s perspective?🧐🧐🧐🧐🧐🧐🧐🧐🧐🧐🧐
+
+Let us take an example from Amazon, the world’s largest eCommerce platform. From a customer’s perspective, Market Basket Analysis is like shopping at a supermarket. Generally, it observes all items bought by customers together in a single purchase. Then it shows the most related products together that customers will tend to buy in one purchase.
+
+![image](https://user-images.githubusercontent.com/100334542/179163342-009b4dd6-13e3-4176-a8ee-f668465e5c38.png)
+
+### The Dataset
+
+In this implementation, we have to use the Store Data dataset that is publicly available on Kaggle. This dataset contains a total of 7501 transaction records where every record consists of the list of items sold in just one transaction.
+
+

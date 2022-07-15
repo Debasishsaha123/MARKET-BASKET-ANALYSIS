@@ -85,6 +85,33 @@ In this implementation, we have to use the Store Data dataset that is publicly a
 https://github.com/Debasishsaha123/MARKET-BASKET-ANALYSIS/blob/main/Market_Basket_Optimisation%20(1).csv
 
 
+       all_items = data.melt()["value"].dropna().sort_values()
+       print(f"There were {all_items.nunique()} different products:\n", all_items.unique())
+       
+The dataset contanins 120 different products.
+  
+  Among them mineral water is the most purchased products
+  
+![image](https://user-images.githubusercontent.com/100334542/179189498-d69aefc8-e7ed-48c3-811b-02faf19e60c1.png)
+
+  Assuming that only one unit of each item was bought in each transaction, asparagus is sold the least.
+
+![image](https://user-images.githubusercontent.com/100334542/179190081-25ccd1e9-c4a3-491d-b380-9bd5704ac986.png)
+
+## Customer's choices
+
+### 1.First Choice
+
+![newplot](https://user-images.githubusercontent.com/100334542/179190763-da8cc7b8-99fd-4d68-9033-c32e9d252745.png)
+
+### 2.Second choice
+
+![newplot (1)](https://user-images.githubusercontent.com/100334542/179190850-51f72971-07d5-4118-b95c-acc076856339.png)
+
+### 3.Third choice
+
+![newplot (2)](https://user-images.githubusercontent.com/100334542/179190941-d0662deb-f3ae-4c5b-85d4-c6e516c77f9b.png)
+
 
 
 

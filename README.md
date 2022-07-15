@@ -41,3 +41,10 @@ An example of Assosciation Rules 👇👇👇👇👇👇👇👇👇👇👇�
       
 ![image](https://user-images.githubusercontent.com/100334542/179159698-8dce4650-6b10-497f-b1e3-d9e999a94ba7.png)
 
+## Apriori Algorithm
+
+Apriori Algorithm is a widely-used and well-known Association Rule algorithm and is a popular algorithm used in market basket analysis.It helps to find frequent itemsets in transactions and identifies association rules between these items. The limitation of the Apriori Algorithm is frequent itemset generation. It needs to scan the database many times which leads to increased time and reduce performance as it is a computationally costly step because of a huge database. It uses the concept of Confidence, Support.
+
+      Lift (A => B) = 1 means that there is no correlation within the itemset.
+      Lift (A => B) > 1 means that there is a positive correlation within the itemset, i.e., products in the itemset, A, and B, are more likely to be bought together.
+      Lift (A => B) < 1 means that there is a negative correlation within the itemset, i.e., products in itemset, A, and B, are unlikely to be bought together.

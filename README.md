@@ -48,3 +48,22 @@ Apriori Algorithm is a widely-used and well-known Association Rule algorithm and
       Lift (A => B) = 1 means that there is no correlation within the itemset.
       Lift (A => B) > 1 means that there is a positive correlation within the itemset, i.e., products in the itemset, A, and B, are more likely to be bought together.
       Lift (A => B) < 1 means that there is a negative correlation within the itemset, i.e., products in itemset, A, and B, are unlikely to be bought together.
+
+## Advantages of Market Basket Analysis
+
+There are many advantages to implementing Market Basket Analysis in marketing. Market basket Analysis(MBA) can be applied to data of customers from the point of sale (PoS) systems.
+
+It helps retailers with:
+
+1.Increases customer engagement
+
+2.Boosting sales and increasing RoI
+
+3.Improving customer experience
+
+4.Optimize marketing strategies and campaigns
+
+5.Help to understand customers better
+
+6.Identifies customer behavior and pattern
+

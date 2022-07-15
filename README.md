@@ -12,14 +12,19 @@ Nowadays Machine Learning is helping the Retail Industry in many different ways.
 
 ## What is Market Basket Analysis?
 
- A popular example of frequent itemset mining is Market Basket Analysis. This process identifies customer buying habits by finding associations between the different items that customers place in their “shopping baskets” as you can see in the following fig. The discovery of this kind of association will be helpful for  retailers or marketers to develop marketing strategies by gaining insight into which items
-are frequently bought together by customers.
+When we go to any supermarket or shop online we try to purchase all the item we need together instead of buying each item seperately. Thus we can define Market Basket as a basket which is used to group together items of a person’s interest which he/she will buy in one transaction. Each trip to the market is a single transaction, and in case of e-commerce all items bought in a single login is a transaction
+
+This process identifies customer buying habits by finding associations between the different items that customers place in their “shopping baskets” . The discovery of this kind of association will be helpful for  retailers or marketers to develop marketing strategies by gaining insight into which items are frequently bought together by customers.
 
 For example, if customers are buying milk, how probably are they to also buy bread (and which kind of bread) on the same trip to the supermarket? This information may lead to increase sales by helping retailers to do selective marketing and plan their ledge space.
 
 ![image](https://user-images.githubusercontent.com/100334542/179158674-b56b6ce7-302e-4e9d-a78b-149bdf7528f0.png)
 
-Suppose just think of the universe as the set of items available at the store, then each item has a Boolean variable that represents the presence or absence of that item. Now each basket can then be represented by a Boolean vector of values that are assigned to these variables. The Boolean vectors can be analyzed of buying patterns that reflect items that are frequently associated or bought together. Such patterns will be represented in the form of association rules.
+## Objective of Market Basket
+
+1.Cross Selling: It is a stratergy where the seller encourages the customer to spend more money by recommending related products that complement what is being bought already by the consumer. This stratergy would encourage the customer to spend more than he/she had actually thought he/she would.
+
+2.Product Placement: When you go to supermarket you may see that the milk items are kept together. Moreover you may see that as you move forward you find the bread making items such as flour, butter, eggs etc kept just after the milk products. This placement of the items on the supermarket shelf follows planogram. A planogram is defined as a “diagram or model that indicates the placement of retail products on shelves in order to maximize sales”.
 
 ## What is Association Rule for Market basket Analysis?
 
@@ -76,5 +81,10 @@ Let us take an example from Amazon, the world’s largest eCommerce platform. Fr
 ### The Dataset
 
 In this implementation, we have to use the Store Data dataset that is publicly available on Kaggle. This dataset contains a total of 7501 transaction records where every record consists of the list of items sold in just one transaction.
+
+https://github.com/Debasishsaha123/MARKET-BASKET-ANALYSIS/blob/main/Market_Basket_Optimisation%20(1).csv
+
+
+
 
 

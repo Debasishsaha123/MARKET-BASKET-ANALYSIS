@@ -127,5 +127,11 @@ The dataset contanins 120 different products.
 
 According the above table we can easily say that the dependency between (herb & pepper) and (ground beef) is high since lift value is approximately 2.5x of threshold value and conviction is higher than 1.
 
+#### **Now see the confidence matrix without mineral water as**
+
+![Screenshot (43)](https://user-images.githubusercontent.com/100334542/179939091-f3206433-4c5e-4f1b-a8e0-d583ec9ece2e.png)
+
+### **According the redifined table there is a significant relationship between ground beef and spaghetti ,red wine,olive oli**
+
 
 

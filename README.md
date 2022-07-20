@@ -133,5 +133,7 @@ According the above table we can easily say that the dependency between (herb & 
 
 ### **According the redifined table there is a significant relationship between ground beef and spaghetti ,red wine,olive oli**
 
+![Screenshot (45)](https://user-images.githubusercontent.com/100334542/179940206-48d1a50e-319e-4f8c-8722-925228db5e5c.png)
 
+**From the abpve table it is easily seen the antecedents from the itemset corresponding the consequents where 'spaghetti' present.**
 

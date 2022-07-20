@@ -121,7 +121,7 @@ The dataset contanins 120 different products.
 
 ![Screenshot (38)](https://user-images.githubusercontent.com/100334542/179923411-2cda1cd2-8ddd-430e-ac98-ddbbea2c8062.png)
 
-#### ** We have association rules which need to put on itemset here we are setting based on lift and has minimum lift as 1.2.**
+#### **We have association rules which need to put on itemset here we are setting based on lift and has minimum lift as 1.2.**
 
 ![Screenshot (41)](https://user-images.githubusercontent.com/100334542/179926718-9141fa30-0a38-4e6f-be9f-a9f5244422a4.png)
 
@@ -135,5 +135,5 @@ According the above table we can easily say that the dependency between (herb & 
 
 ![Screenshot (45)](https://user-images.githubusercontent.com/100334542/179940206-48d1a50e-319e-4f8c-8722-925228db5e5c.png)
 
-**From the abpve table it is easily seen the antecedents from the itemset corresponding the consequents where 'spaghetti' present.**
+**From the above table it is easily seen the antecedents from the itemset corresponding the consequents where 'spaghetti' present.**
 

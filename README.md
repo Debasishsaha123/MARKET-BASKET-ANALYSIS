@@ -98,6 +98,11 @@ The dataset contanins 120 different products.
 
 ![image](https://user-images.githubusercontent.com/100334542/179190081-25ccd1e9-c4a3-491d-b380-9bd5704ac986.png)
 
+# Transaction
+
+![Screenshot (36)](https://user-images.githubusercontent.com/100334542/179921824-99d93bd0-5239-40f8-b0c0-4679beef7f2c.png)
+
+
 ## Customer's choices
 
 ### 1.First Choice

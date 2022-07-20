@@ -117,9 +117,15 @@ The dataset contanins 120 different products.
 
 ![newplot (2)](https://user-images.githubusercontent.com/100334542/179190941-d0662deb-f3ae-4c5b-85d4-c6e516c77f9b.png)
 
-#### **Now we apply apriori function and pass minimum support here we are passing 10%. means 10 times in total number of transaction that item was present.
+#### **Now we apply apriori function and pass minimum support here we are passing 10%. means 10 times in total number of transaction that item was present.**
 
 ![Screenshot (38)](https://user-images.githubusercontent.com/100334542/179923411-2cda1cd2-8ddd-430e-ac98-ddbbea2c8062.png)
+
+#### ** We have association rules which need to put on itemset here we are setting based on lift and has minimum lift as 1.2.**
+
+![Screenshot (41)](https://user-images.githubusercontent.com/100334542/179926718-9141fa30-0a38-4e6f-be9f-a9f5244422a4.png)
+
+According the above table we can easily say that the dependency between (herb & pepper) and (ground beef) is high since lift value is approximately 2.5x of threshold value and conviction is higher than 1.
 
 
 

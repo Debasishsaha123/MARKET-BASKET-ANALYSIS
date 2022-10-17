@@ -22,9 +22,9 @@ For example, if customers are buying milk, how probably are they to also buy bre
 
 ## Objective of Market Basket
 
-1.Cross Selling: It is a stratergy where the seller encourages the customer to spend more money by recommending related products that complement what is being bought already by the consumer. This stratergy would encourage the customer to spend more than he/she had actually thought he/she would.
+1. **Cross Selling**: It is a stratergy where the seller encourages the customer to spend more money by recommending related products that complement what is being bought already by the consumer. This stratergy would encourage the customer to spend more than he/she had actually thought he/she would.
 
-2.Product Placement: When you go to supermarket you may see that the milk items are kept together. Moreover you may see that as you move forward you find the bread making items such as flour, butter, eggs etc kept just after the milk products. This placement of the items on the supermarket shelf follows planogram. A planogram is defined as a “diagram or model that indicates the placement of retail products on shelves in order to maximize sales”.
+2. **Product Placement**: When you go to supermarket you may see that the milk items are kept together. Moreover you may see that as you move forward you find the bread making items such as flour, butter, eggs etc kept just after the milk products. This placement of the items on the supermarket shelf follows planogram. A planogram is defined as a “diagram or model that indicates the placement of retail products on shelves in order to maximize sales”.
 
 ## What is Association Rule for Market basket Analysis?
 
